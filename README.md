@@ -12,4 +12,4 @@ file with these settings of your Wi Fi:
 
 <hr>
 <code>dht11_sensor.py</code> file contains code that can be used for measure temperature and humidity of current 
-environment
+environment using DHT11 sensor connected to ESP32 board.
